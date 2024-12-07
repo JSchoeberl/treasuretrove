@@ -9,5 +9,8 @@ parts:
     numbered: True
     chapters:
       - file: geometries/heart.ipynb
-
-
+  - caption: Solvers
+    numbered: True
+    chapters:
+      - file: matrixfree/matfree-preconditioner.ipynb
+      

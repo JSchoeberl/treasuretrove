@@ -1,3 +1,3 @@
 rm -rf _build
 jupyter-book build .
-ghp-import -n -p -f _build/html -r github
+ghp-import -n -p -f _build/html 
