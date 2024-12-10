@@ -35,3 +35,6 @@ _build
 geometries/heart.stl
 geometries/a.out*
 */.ipynb_checkpoints
+ng*.html
+ng*.trace
+*.tess

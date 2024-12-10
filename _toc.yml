@@ -9,6 +9,7 @@ parts:
     numbered: True
     chapters:
       - file: geometries/heart.ipynb
+      - file: geometries/neper_tess.ipynb
   - caption: Solvers
     numbered: True
     chapters:
