@@ -1,5 +1,5 @@
 # treasuretrove
 a random collection of valuable snippets
 
-watch online:
+view as jupyter-book:
 https://jschoeberl.github.io/treasuretrove/intro.html
