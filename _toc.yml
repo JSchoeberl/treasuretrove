@@ -15,9 +15,13 @@ parts:
     chapters:
       - file: matrixfree/matfree-preconditioner.ipynb
       
-
   - caption: Convection
     numbered: True
     chapters:
       - file: convection/convection.ipynb
+
+  - caption: Eigenvalues
+    numbered: True  
+    chapters:
+      - file: eigenvalues/canyouhear.ipynb
       
